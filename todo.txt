@@ -1,0 +1,17 @@
+Dirt on floor
+Depth of field
+Detail models
+No straight lines
+Vigentte
+Chromatic Aberration
+Len Deformation
+Candle flame simulation
+Darken on Z-depth
+Dust in air
+Dust on objects
+God Rays
+Liquid stains on cauldron
+Dripping liquid from ladle
+Smoke from candle
+Smoke from pot
+Signature
