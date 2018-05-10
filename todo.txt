@@ -15,3 +15,10 @@ Dripping liquid from ladle
 Smoke from candle
 Smoke from pot
 Signature
+
+
+Texture Maps
+Albedo/Diffuse(RGB)
+Roughness(BW)-Bump(BW)-Metalness(BW)
+Displacement(BW)
+Normal (RGB)
