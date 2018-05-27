@@ -1,20 +1,24 @@
-Dirt on floor
-Depth of field
-Detail models
-No straight lines
-Vigentte
-Chromatic Aberration
-Len Deformation
+Spider webs
 Candle flame simulation
-Darken on Z-depth
+Dirt on floor
 Dust in air
 Dust on objects
-God Rays
 Liquid stains on cauldron
 Dripping liquid from ladle
 Smoke from candle
 Smoke from pot
+Detail models
+
+No straight lines
+
+Depth of field
+Vigentte
+Chromatic Aberration
+Lens Deformation
+Darken on Z-depth
+God Rays
 Signature
+
 
 
 Texture Maps
@@ -22,3 +26,30 @@ Albedo/Diffuse(RGB)
 Roughness(BW)-Bump(BW)-Metalness(BW)
 Displacement(BW)
 Normal (RGB)
+
+==========================================================================
+==========================================================================
+==========================================================================
+
+Rythym
+ - Weird Time Signatures
+ - Speed
+
+Harmony
+ - Playing chords cleanly
+ - Different Chord Progressions
+ 
+Melody
+ - Playing Cleanly
+ - Scales, Modes
+ - Riffs, licks
+ - Arpeggios
+ - Tapping, thumping, picking, legato
+ 
+Improvising
+
+Improving Tone, Improving Church Songs
+
+Music Theory, reading music
+
+Playing in other tunings
